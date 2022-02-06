@@ -12,6 +12,7 @@ x = Person("John", "Doe")
 x.printname()
 
 
-
+class Student(Person):
+  pass
 
 
