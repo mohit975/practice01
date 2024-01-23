@@ -1,4 +1,4 @@
-class Person:
+class Person1:
   def __init__(self, fname, lname):
     self.firstname = fname
     self.lastname = lname
